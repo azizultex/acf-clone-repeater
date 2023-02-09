@@ -4,7 +4,7 @@ Plugin Name: ACF Clone Repeater
 Plugin URI: https://github.com/sumanengbd/acf-clone-repeater
 Description: This Plugin is Duplicate Repeater and Layout Fields in ACF Pro
 Author: Suman Ali
-Version: 1.0.1
+Version: 1.0.4
 Author URI: https://github.com/sumanengbd/acf-clone-repeater
 License: GPL3
 Text Domain: acf-clone-repeater
