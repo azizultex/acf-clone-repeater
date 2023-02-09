@@ -11,8 +11,7 @@ License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
 == Description ==
 
-ACF Pro 5.9 comes with a duplicate row feature on its own. The “ACF Clone Repeater” plugin is no longer maintained.
-
+ACF Pro 5.9 comes with a duplicate row feature on its own.
 ACF Clone Repeater and Layout Fields in ACF Pro.
 
 Supports all ACF Native fields.
